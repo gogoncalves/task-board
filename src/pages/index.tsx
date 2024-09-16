@@ -28,7 +28,7 @@ export default function Home() {
             <span>+12 posts</span>
           </section>
           <section className={styles.box}>
-            <span>+90 comentários</span>
+            <span>+90 comments</span>
           </section>
         </div>
       </main>
